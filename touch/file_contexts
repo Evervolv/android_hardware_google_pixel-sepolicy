@@ -1,0 +1,2 @@
+# Pixel touch HAL
+/vendor/bin/hw/vendor\.evervolv\.touch@1\.0-service\.pixel                         u:object_r:hal_evervolv_touch_default_exec:s0
